@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1614201254256' stop='1614201264535'>
+    <name>Pizza Order Fulfillment</name>
+    <title>Pizza Order Fulfillment</title>
+    <test-cases>
+        <test-case start='1614201257265' status='passed' stop='1614201258680'>
+            <name>Navigate to New order page</name>
+            <title>Navigate to New order page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c3b54b7c-c785-4147-af68-ff3b7092a69b-attachment.png' type='image/png' size='52601'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201258681' status='passed' stop='1614201259859'>
+            <name>Enter personal information</name>
+            <title>Enter personal information</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='69b01f80-50b4-4c63-9a81-beda415a45a6-attachment.png' type='image/png' size='63851'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201259859' status='passed' stop='1614201262258'>
+            <name>Select pizza size and toppings</name>
+            <title>Select pizza size and toppings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9ba8becf-3a3d-4f76-a80a-77e38566988f-attachment.png' type='image/png' size='40340'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201262258' status='passed' stop='1614201262761'>
+            <name>Place the order</name>
+            <title>Place the order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cfd09028-5923-4628-a535-904e548a2daf-attachment.png' type='image/png' size='17627'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201262761' status='passed' stop='1614201263192'>
+            <name>Navigate to status page</name>
+            <title>Navigate to status page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bf2fc1a7-701b-4ee8-aacf-501e3053377d-attachment.png' type='image/png' size='112812'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201263192' status='passed' stop='1614201263579'>
+            <name>Confirm latest order displayed in the table</name>
+            <title>Confirm latest order displayed in the table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='178a7c59-eef5-497f-be8e-c03d02b667f0-attachment.png' type='image/png' size='112428'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201263579' status='passed' stop='1614201264110'>
+            <name>Accept the order</name>
+            <title>Accept the order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bb97ca1e-3f79-430d-9141-76996c93dd94-attachment.png' type='image/png' size='113186'/>
+            </attachments>
+        </test-case>
+        <test-case start='1614201264110' status='passed' stop='1614201264534'>
+            <name>Mark Order as Completed and Order should be Completed</name>
+            <title>Mark Order as Completed and Order should be Completed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4b506d7f-a8e1-481f-8b54-b4819f7d42d4-attachment.png' type='image/png' size='111292'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
